@@ -34,12 +34,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/yuribrigidoferreira">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yuribrigidoferreira&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###

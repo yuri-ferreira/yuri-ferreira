@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning DevOps<br>🎲 Fun fact: I have too many hours in CS.</p>
+<p align="left">📚 I'm currently learning DevOps and Python<br>🎲 Fun fact: I have too many hours in CS.</p>
 
 ###
 
